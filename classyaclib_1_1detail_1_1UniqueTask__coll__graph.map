@@ -1,0 +1,10 @@
+<map id="yaclib::detail::UniqueTask&lt; Functor &gt;" name="yaclib::detail::UniqueTask&lt; Functor &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="208,381,376,423"/>
+<area shape="rect" id="node2" href="$classyaclib_1_1util_1_1detail_1_1CallImpl.html" title=" " alt="" coords="201,291,383,332"/>
+<area shape="rect" id="node3" href="$classyaclib_1_1ITask.html" title="Callable that can be executed in an IExecutor." alt="" coords="157,187,251,213"/>
+<area shape="rect" id="node4" href="$classyaclib_1_1util_1_1IFunc.html" title="Shared callable interface." alt="" coords="5,89,123,115"/>
+<area shape="rect" id="node5" href="$classyaclib_1_1util_1_1IRef.html" title="Reference counting interface." alt="" coords="10,5,118,32"/>
+<area shape="rect" id="node6" href="$classyaclib_1_1util_1_1detail_1_1Node.html" title="Intrusive node class." alt="" coords="147,81,261,123"/>
+<area shape="rect" id="node7" href="$classyaclib_1_1util_1_1detail_1_1CallImpl.html" title=" " alt="" coords="295,172,436,228"/>
+<area shape="rect" id="node8" href="$classInterface.html" title=" " alt="" coords="345,89,418,115"/>
+</map>

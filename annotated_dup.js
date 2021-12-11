@@ -1,0 +1,68 @@
+var annotated_dup =
+[
+    [ "yaclib", "namespaceyaclib.html", [
+      [ "detail", "namespaceyaclib_1_1detail.html", [
+        [ "NoTimeoutTag", "structyaclib_1_1detail_1_1NoTimeoutTag.html", null ],
+        [ "AllCombinatorBase", "classyaclib_1_1detail_1_1AllCombinatorBase.html", "classyaclib_1_1detail_1_1AllCombinatorBase" ],
+        [ "AllCombinatorBase< void >", "classyaclib_1_1detail_1_1AllCombinatorBase_3_01void_01_4.html", "classyaclib_1_1detail_1_1AllCombinatorBase_3_01void_01_4" ],
+        [ "AllCombinator", "classyaclib_1_1detail_1_1AllCombinator.html", "classyaclib_1_1detail_1_1AllCombinator" ],
+        [ "AnyCombinatorBase", "classyaclib_1_1detail_1_1AnyCombinatorBase.html", "classyaclib_1_1detail_1_1AnyCombinatorBase" ],
+        [ "AnyCombinatorBase< T, PolicyWhenAny::FirstError >", "classyaclib_1_1detail_1_1AnyCombinatorBase_3_01T_00_01PolicyWhenAny_1_1FirstError_01_4.html", "classyaclib_1_1detail_1_1AnyCombinatorBase_3_01T_00_01PolicyWhenAny_1_1FirstError_01_4" ],
+        [ "AnyCombinator", "classyaclib_1_1detail_1_1AnyCombinator.html", "classyaclib_1_1detail_1_1AnyCombinator" ],
+        [ "BaseCore", "classyaclib_1_1detail_1_1BaseCore.html", "classyaclib_1_1detail_1_1BaseCore" ],
+        [ "Core", "classyaclib_1_1detail_1_1Core.html", "classyaclib_1_1detail_1_1Core" ],
+        [ "Return", "structyaclib_1_1detail_1_1Return.html", null ],
+        [ "Return< T, Functor, 1 >", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_011_01_4.html", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_011_01_4" ],
+        [ "Return< T, Functor, 2 >", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_012_01_4.html", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_012_01_4" ],
+        [ "Return< T, Functor, 4 >", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_014_01_4.html", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_014_01_4" ],
+        [ "Return< T, Functor, 8 >", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_018_01_4.html", "structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_018_01_4" ],
+        [ "SyncInvoke", "classyaclib_1_1detail_1_1SyncInvoke.html", "classyaclib_1_1detail_1_1SyncInvoke" ],
+        [ "AsyncInvoke", "classyaclib_1_1detail_1_1AsyncInvoke.html", "classyaclib_1_1detail_1_1AsyncInvoke" ],
+        [ "ResultCore", "classyaclib_1_1detail_1_1ResultCore.html", "classyaclib_1_1detail_1_1ResultCore" ],
+        [ "WaitCore", "classyaclib_1_1detail_1_1WaitCore.html", "classyaclib_1_1detail_1_1WaitCore" ],
+        [ "WaitCoreDeleter", "structyaclib_1_1detail_1_1WaitCoreDeleter.html", "structyaclib_1_1detail_1_1WaitCoreDeleter" ],
+        [ "UniqueTask", "classyaclib_1_1detail_1_1UniqueTask.html", null ]
+      ] ],
+      [ "util", "namespaceyaclib_1_1util.html", [
+        [ "detail", "namespaceyaclib_1_1util_1_1detail.html", [
+          [ "DefaultDeleter", "structyaclib_1_1util_1_1detail_1_1DefaultDeleter.html", "structyaclib_1_1util_1_1detail_1_1DefaultDeleter" ],
+          [ "CallImpl", "classyaclib_1_1util_1_1detail_1_1CallImpl.html", "classyaclib_1_1util_1_1detail_1_1CallImpl" ],
+          [ "Node", "classyaclib_1_1util_1_1detail_1_1Node.html", "classyaclib_1_1util_1_1detail_1_1Node" ],
+          [ "ResultValue", "structyaclib_1_1util_1_1detail_1_1ResultValue.html", "structyaclib_1_1util_1_1detail_1_1ResultValue" ],
+          [ "ResultValue< Result< U > >", "structyaclib_1_1util_1_1detail_1_1ResultValue_3_01Result_3_01U_01_4_01_4.html", "structyaclib_1_1util_1_1detail_1_1ResultValue_3_01Result_3_01U_01_4_01_4" ],
+          [ "FutureValue", "structyaclib_1_1util_1_1detail_1_1FutureValue.html", "structyaclib_1_1util_1_1detail_1_1FutureValue" ],
+          [ "FutureValue< Future< U > >", "structyaclib_1_1util_1_1detail_1_1FutureValue_3_01Future_3_01U_01_4_01_4.html", "structyaclib_1_1util_1_1detail_1_1FutureValue_3_01Future_3_01U_01_4_01_4" ]
+        ] ],
+        [ "Counter", "classyaclib_1_1util_1_1Counter.html", "classyaclib_1_1util_1_1Counter" ],
+        [ "NothingCounter", "classyaclib_1_1util_1_1NothingCounter.html", "classyaclib_1_1util_1_1NothingCounter" ],
+        [ "IFunc", "classyaclib_1_1util_1_1IFunc.html", "classyaclib_1_1util_1_1IFunc" ],
+        [ "Ptr", "classyaclib_1_1util_1_1Ptr.html", "classyaclib_1_1util_1_1Ptr" ],
+        [ "IRef", "classyaclib_1_1util_1_1IRef.html", "classyaclib_1_1util_1_1IRef" ],
+        [ "Result", "classyaclib_1_1util_1_1Result.html", "classyaclib_1_1util_1_1Result" ],
+        [ "ResultError", "classyaclib_1_1util_1_1ResultError.html", "classyaclib_1_1util_1_1ResultError" ],
+        [ "ResultEmpty", "structyaclib_1_1util_1_1ResultEmpty.html", null ],
+        [ "IsInstantiationOf", "structyaclib_1_1util_1_1IsInstantiationOf.html", null ],
+        [ "IsInstantiationOf< T, T< U... > >", "structyaclib_1_1util_1_1IsInstantiationOf_3_01T_00_01T_3_01U_8_8_8_01_4_01_4.html", null ],
+        [ "Invoke", "structyaclib_1_1util_1_1Invoke.html", "structyaclib_1_1util_1_1Invoke" ],
+        [ "Invoke< Functor, void >", "structyaclib_1_1util_1_1Invoke_3_01Functor_00_01void_01_4.html", "structyaclib_1_1util_1_1Invoke_3_01Functor_00_01void_01_4" ],
+        [ "IsInvocable", "structyaclib_1_1util_1_1IsInvocable.html", "structyaclib_1_1util_1_1IsInvocable" ],
+        [ "IsInvocable< Functor, void >", "structyaclib_1_1util_1_1IsInvocable_3_01Functor_00_01void_01_4.html", "structyaclib_1_1util_1_1IsInvocable_3_01Functor_00_01void_01_4" ],
+        [ "List", "classyaclib_1_1util_1_1List.html", "classyaclib_1_1util_1_1List" ],
+        [ "MPSCStack", "classyaclib_1_1util_1_1MPSCStack.html", "classyaclib_1_1util_1_1MPSCStack" ]
+      ] ],
+      [ "WaitGroup", "classyaclib_1_1WaitGroup.html", "classyaclib_1_1WaitGroup" ],
+      [ "Future", "classyaclib_1_1Future.html", "classyaclib_1_1Future" ],
+      [ "Promise", "classyaclib_1_1Promise.html", "classyaclib_1_1Promise" ],
+      [ "Contract", "structyaclib_1_1Contract.html", "structyaclib_1_1Contract" ],
+      [ "IExecutor", "classyaclib_1_1IExecutor.html", "classyaclib_1_1IExecutor" ],
+      [ "ITask", "classyaclib_1_1ITask.html", "classyaclib_1_1ITask" ],
+      [ "IThread", "classyaclib_1_1IThread.html", "classyaclib_1_1IThread" ],
+      [ "IThreadFactory", "classyaclib_1_1IThreadFactory.html", "classyaclib_1_1IThreadFactory" ],
+      [ "IThreadPool", "classyaclib_1_1IThreadPool.html", "classyaclib_1_1IThreadPool" ],
+      [ "Inline", "classyaclib_1_1Inline.html", null ]
+    ] ],
+    [ "CalculatorService", "classCalculatorService.html", "classCalculatorService" ],
+    [ "CounterBase", "classCounterBase.html", null ],
+    [ "Exception", "classException.html", null ],
+    [ "Interface", "classInterface.html", null ]
+];

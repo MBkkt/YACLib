@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['sanitizer_2emd_196',['sanitizer.md',['../sanitizer_8md.html',1,'']]],
+  ['sanitizers_197',['Sanitizers',['../md_doc_sanitizer.html',1,'']]],
+  ['serial_198',['Serial',['../classyaclib_1_1IExecutor.html#adad1d029ecaf5a6291401978d4c38802a5255d3daaa0a6276b844d61401e6f493',1,'yaclib::IExecutor']]],
+  ['serial_2ecpp_199',['serial.cpp',['../src_2executor_2serial_8cpp.html',1,'(Global Namespace)'],['../test_2example_2executor_2serial_8cpp.html',1,'(Global Namespace)']]],
+  ['serial_2ehpp_200',['serial.hpp',['../serial_8hpp.html',1,'']]],
+  ['set_201',['Set',['../classyaclib_1_1Promise.html#aca4e512017a11261d85d8d17793cfe2b',1,'yaclib::Promise::Set(Type &amp;&amp;value) &amp;&amp;'],['../classyaclib_1_1Promise.html#adbe9dad304e6b8b184bb94d17ebfba0a',1,'yaclib::Promise::Set() &amp;&amp;'],['../classyaclib_1_1util_1_1Result.html#a80f6403912fe702f50a77c759570ae52',1,'yaclib::util::Result::Set()'],['../classyaclib_1_1Promise.html#a676ab1a43d982ccc7c9c834b96dca5f9',1,'yaclib::Promise::Set() &amp;&amp;'],['../classyaclib_1_1Promise.html#aca4e512017a11261d85d8d17793cfe2b',1,'yaclib::Promise::Set(Type &amp;&amp;value) &amp;&amp;']]],
+  ['setasynccallback_202',['SetAsyncCallback',['../namespaceyaclib_1_1detail.html#a649a2a5ffcc27224f2c32b5c6b6dfd7f',1,'yaclib::detail']]],
+  ['setcallback_203',['SetCallback',['../classyaclib_1_1detail_1_1BaseCore.html#a60fbd2962e09abfb7d9e49cfc6184087',1,'yaclib::detail::BaseCore::SetCallback()'],['../namespaceyaclib_1_1detail.html#a988129fc6f97150a91f21d4de8e426f7',1,'yaclib::detail::SetCallback()']]],
+  ['setcallbackinline_204',['SetCallbackInline',['../classyaclib_1_1detail_1_1BaseCore.html#ae794ab5434565027a533cc3f622e0e73',1,'yaclib::detail::BaseCore']]],
+  ['setexecutor_205',['SetExecutor',['../classyaclib_1_1detail_1_1BaseCore.html#aa8fbf4eccf1fb8aa88fc51757cfb6b00',1,'yaclib::detail::BaseCore']]],
+  ['setresult_206',['SetResult',['../classyaclib_1_1detail_1_1ResultCore.html#a741bafc3584a011b13b39a898aca3458',1,'yaclib::detail::ResultCore']]],
+  ['setstate_207',['SetState',['../classyaclib_1_1detail_1_1BaseCore.html#a589a098971de95230c20e549d5de91cd',1,'yaclib::detail::BaseCore']]],
+  ['setsynccallback_208',['SetSyncCallback',['../namespaceyaclib_1_1detail.html#a58f2574ec61f25a57baf28090060c1a5',1,'yaclib::detail']]],
+  ['setwait_209',['SetWait',['../classyaclib_1_1detail_1_1BaseCore.html#ac93d2ec4caf4c2b5ec3ccb9d533bf965',1,'yaclib::detail::BaseCore']]],
+  ['simple_2ecpp_210',['simple.cpp',['../simple_8cpp.html',1,'']]],
+  ['singlethread_211',['SingleThread',['../classyaclib_1_1IExecutor.html#adad1d029ecaf5a6291401978d4c38802a8096cbefe1715cf50962916d1d852588',1,'yaclib::IExecutor']]],
+  ['softstop_212',['SoftStop',['../classyaclib_1_1IThreadPool.html#aa9b1f156ca3cd7a00707d0c6c4041868',1,'yaclib::IThreadPool']]],
+  ['state_213',['State',['../classyaclib_1_1util_1_1Result.html#a19989f3515fdb654613c8732d64e0a21',1,'yaclib::util::Result::State()'],['../classyaclib_1_1detail_1_1BaseCore.html#a8db7e117824bf494d8691c0648526841',1,'yaclib::detail::BaseCore::State()']]],
+  ['stop_214',['Stop',['../classyaclib_1_1Future.html#a6697f78e0411973b6578b5347ee41eea',1,'yaclib::Future::Stop()'],['../classyaclib_1_1IThreadPool.html#ae8745c8dfc596e6a88d980e3cbe0bd1d',1,'yaclib::IThreadPool::Stop()']]],
+  ['style_20guide_215',['Style guide',['../md_doc_style_guide.html',1,'']]],
+  ['style_5fguide_2emd_216',['style_guide.md',['../style__guide_8md.html',1,'']]],
+  ['subscribe_217',['Subscribe',['../classyaclib_1_1Future.html#afd3ccd3c5bb01ea0e214f12150017b39',1,'yaclib::Future::Subscribe(IExecutorPtr e, Functor &amp;&amp;f) &amp;&amp;'],['../classyaclib_1_1Future.html#a6b7c78e165fc69768a62e2e8115336ab',1,'yaclib::Future::Subscribe(Functor &amp;&amp;f) &amp;&amp;'],['../classyaclib_1_1Future.html#afd3ccd3c5bb01ea0e214f12150017b39',1,'yaclib::Future::Subscribe(IExecutorPtr e, Functor &amp;&amp;f) &amp;&amp;'],['../classyaclib_1_1Future.html#a3d2046ece4e8c11a6c64fd2670e5f7a6',1,'yaclib::Future::Subscribe(Functor &amp;&amp;functor) &amp;&amp;']]],
+  ['subscribeinline_218',['SubscribeInline',['../classyaclib_1_1Future.html#adfb590f64cdaeced1e0c30bbe6ad8e11',1,'yaclib::Future::SubscribeInline(Functor &amp;&amp;f) &amp;&amp;'],['../classyaclib_1_1Future.html#adfb590f64cdaeced1e0c30bbe6ad8e11',1,'yaclib::Future::SubscribeInline(Functor &amp;&amp;f) &amp;&amp;']]],
+  ['swap_219',['Swap',['../classyaclib_1_1util_1_1Ptr.html#a09f2a864e7baa6dab8436ce540402a58',1,'yaclib::util::Ptr']]],
+  ['syncinvoke_220',['SyncInvoke',['../classyaclib_1_1detail_1_1SyncInvoke.html#a1917f8a31ef9d07cc91c685a273d8ca9',1,'yaclib::detail::SyncInvoke::SyncInvoke(FunctorStoreT &amp;&amp;f) noexcept(std::is_nothrow_move_constructible_v&lt; FunctorStoreT &gt;)'],['../classyaclib_1_1detail_1_1SyncInvoke.html#a77b65d093676380ea1ab1c59989030a1',1,'yaclib::detail::SyncInvoke::SyncInvoke(const FunctorStoreT &amp;f) noexcept(std::is_nothrow_copy_constructible_v&lt; FunctorStoreT &gt;)'],['../classyaclib_1_1detail_1_1SyncInvoke.html',1,'yaclib::detail::SyncInvoke&lt; U, FunctorT, T &gt;']]]
+];

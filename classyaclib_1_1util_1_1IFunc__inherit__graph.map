@@ -1,0 +1,13 @@
+<map id="yaclib::util::IFunc" name="yaclib::util::IFunc">
+<area shape="rect" id="node1" title="Shared callable interface." alt="" coords="163,102,280,129"/>
+<area shape="rect" id="node3" href="$classyaclib_1_1ITask.html" title="Callable that can be executed in an IExecutor." alt="" coords="329,102,424,129"/>
+<area shape="rect" id="node2" href="$classyaclib_1_1util_1_1IRef.html" title="Reference counting interface." alt="" coords="5,102,113,129"/>
+<area shape="rect" id="node4" href="$classyaclib_1_1util_1_1detail_1_1CallImpl.html" title=" " alt="" coords="473,35,655,76"/>
+<area shape="rect" id="node6" href="$classyaclib_1_1detail_1_1BaseCore.html" title=" " alt="" coords="487,130,641,157"/>
+<area shape="rect" id="node5" href="$classyaclib_1_1detail_1_1UniqueTask.html" title=" " alt="" coords="717,5,885,47"/>
+<area shape="rect" id="node7" href="$classyaclib_1_1detail_1_1ResultCore.html" title=" " alt="" coords="992,159,1155,200"/>
+<area shape="rect" id="node9" href="$classyaclib_1_1detail_1_1AllCombinator.html" title=" " alt="" coords="704,123,899,164"/>
+<area shape="rect" id="node10" href="$classyaclib_1_1detail_1_1AnyCombinator.html" title=" " alt="" coords="708,188,895,229"/>
+<area shape="rect" id="node11" href="$classyaclib_1_1detail_1_1ResultCore.html" title=" " alt="" coords="720,253,883,295"/>
+<area shape="rect" id="node8" href="$classyaclib_1_1detail_1_1Core.html" title=" " alt="" coords="1204,159,1369,200"/>
+</map>

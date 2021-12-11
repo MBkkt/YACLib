@@ -1,0 +1,23 @@
+<map id="include/yaclib/util/type_traits.hpp" name="include/yaclib/util/type_traits.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="613,5,734,47"/>
+<area shape="rect" id="node2" href="$wait__impl_8hpp.html" title=" " alt="" coords="277,95,417,136"/>
+<area shape="rect" id="node5" href="$future_8hpp.html" title=" " alt="" coords="363,452,501,493"/>
+<area shape="rect" id="node10" href="$promise_8hpp.html" title=" " alt="" coords="139,541,277,583"/>
+<area shape="rect" id="node12" href="$run_8hpp.html" title=" " alt="" coords="604,541,743,583"/>
+<area shape="rect" id="node18" href="$result_8hpp.html" title=" " alt="" coords="613,95,734,136"/>
+<area shape="rect" id="node3" href="$wait_8hpp.html" title=" " alt="" coords="43,273,171,315"/>
+<area shape="rect" id="node15" href="$wait__for_8hpp.html" title=" " alt="" coords="447,184,575,225"/>
+<area shape="rect" id="node16" href="$wait__until_8hpp.html" title=" " alt="" coords="119,184,247,225"/>
+<area shape="rect" id="node17" href="$wait__impl_8cpp.html" title=" " alt="" coords="271,191,422,218"/>
+<area shape="rect" id="node4" href="$future__impl_8hpp.html" title=" " alt="" coords="245,363,395,404"/>
+<area shape="rect" id="node6" href="$when__any_8hpp.html" title=" " alt="" coords="312,631,440,672"/>
+<area shape="rect" id="node8" href="$when__all_8hpp.html" title=" " alt="" coords="464,631,592,672"/>
+<area shape="rect" id="node14" href="$future__impl_8cpp.html" title=" " alt="" coords="301,549,472,575"/>
+<area shape="rect" id="node7" href="$when__any_8cpp.html" title=" " alt="" coords="381,720,515,761"/>
+<area shape="rect" id="node9" href="$when__all_8cpp.html" title=" " alt="" coords="575,720,710,761"/>
+<area shape="rect" id="node11" href="$promise__impl_8cpp.html" title=" " alt="" coords="105,638,287,665"/>
+<area shape="rect" id="node13" href="$simple_8cpp.html" title=" " alt="" coords="718,631,853,672"/>
+<area shape="rect" id="node19" href="$result__core_8hpp.html" title=" " alt="" coords="599,184,748,225"/>
+<area shape="rect" id="node20" href="$core_8hpp.html" title=" " alt="" coords="469,273,608,315"/>
+<area shape="rect" id="node21" href="$result__core_8cpp.html" title=" " alt="" coords="632,281,803,307"/>
+</map>

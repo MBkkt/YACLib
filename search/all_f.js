@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['readme_2emd_171',['README.md',['../README_8md.html',1,'']]],
+  ['ready_172',['Ready',['../classyaclib_1_1Future.html#a538a9d37f9f69239bebb3ffc07f2fcbd',1,'yaclib::Future']]],
+  ['ref_2ehpp_173',['ref.hpp',['../ref_8hpp.html',1,'']]],
+  ['release_174',['Release',['../classyaclib_1_1util_1_1Ptr.html#a94973040d64eb2cc2e700115061b847f',1,'yaclib::util::Ptr::Release()'],['../classyaclib_1_1IThreadFactory.html#af89a2e559c59dfecb05f5c7d5886faca',1,'yaclib::IThreadFactory::Release()']]],
+  ['resetwait_175',['ResetWait',['../classyaclib_1_1detail_1_1BaseCore.html#a22a070fa8d873ad85f43dcd07dcd9d22',1,'yaclib::detail::BaseCore']]],
+  ['result_176',['Result',['../classyaclib_1_1util_1_1Result.html#ab38070838a9b0ddd3f907037c33a0d48',1,'yaclib::util::Result::Result(U &amp;&amp;result)'],['../classyaclib_1_1util_1_1Result.html#a7a5a44dcd10b27eec1f13c995ac5233b',1,'yaclib::util::Result::Result(const Result &amp;other)=delete'],['../classyaclib_1_1util_1_1Result.html#a3a283139f3599541f50f53d8849ffa91',1,'yaclib::util::Result::Result(Result &amp;&amp;other) noexcept(std::is_nothrow_move_constructible_v&lt; VariantT &gt;)'],['../classyaclib_1_1util_1_1Result.html#a68963a056ffa310460dbf8b5bf9ed44a',1,'yaclib::util::Result::Result()'],['../classyaclib_1_1util_1_1Result.html',1,'yaclib::util::Result&lt; T &gt;']]],
+  ['result_2ehpp_177',['result.hpp',['../result_8hpp.html',1,'']]],
+  ['result_3c_20value_20_3e_178',['Result&lt; Value &gt;',['../classyaclib_1_1util_1_1Result.html',1,'yaclib::util']]],
+  ['result_5fcore_2ecpp_179',['result_core.cpp',['../result__core_8cpp.html',1,'']]],
+  ['result_5fcore_2ehpp_180',['result_core.hpp',['../result__core_8hpp.html',1,'']]],
+  ['resultcore_181',['ResultCore',['../classyaclib_1_1detail_1_1ResultCore.html#a94148cbf64bd713a2b3896c021252a0a',1,'yaclib::detail::ResultCore::ResultCore(T &amp;&amp;value)'],['../classyaclib_1_1detail_1_1ResultCore.html#acf7164ec76559da1c44e399d6b4e6386',1,'yaclib::detail::ResultCore::ResultCore() noexcept'],['../classyaclib_1_1detail_1_1ResultCore.html',1,'yaclib::detail::ResultCore&lt; Value &gt;']]],
+  ['resultcore_3c_20ret_20_3e_182',['ResultCore&lt; Ret &gt;',['../classyaclib_1_1detail_1_1ResultCore.html',1,'yaclib::detail']]],
+  ['resultempty_183',['ResultEmpty',['../structyaclib_1_1util_1_1ResultEmpty.html',1,'yaclib::util']]],
+  ['resulterror_184',['ResultError',['../classyaclib_1_1util_1_1ResultError.html#a3c44759c5962f1137fa0a96aa050b318',1,'yaclib::util::ResultError::ResultError()'],['../classyaclib_1_1util_1_1ResultError.html',1,'yaclib::util::ResultError']]],
+  ['resultstate_185',['ResultState',['../namespaceyaclib_1_1util.html#a7393266d0b6c75368cb614eb167bf96d',1,'yaclib::util']]],
+  ['resultvalue_186',['ResultValue',['../structyaclib_1_1util_1_1detail_1_1ResultValue.html',1,'yaclib::util::detail']]],
+  ['resultvalue_3c_20result_3c_20u_20_3e_20_3e_187',['ResultValue&lt; Result&lt; U &gt; &gt;',['../structyaclib_1_1util_1_1detail_1_1ResultValue_3_01Result_3_01U_01_4_01_4.html',1,'yaclib::util::detail']]],
+  ['resultvaluet_188',['ResultValueT',['../namespaceyaclib_1_1util_1_1detail.html#aa44761530560a10f31fec0329a2d2138',1,'yaclib::util::detail']]],
+  ['return_189',['Return',['../structyaclib_1_1detail_1_1Return.html',1,'yaclib::detail']]],
+  ['return_3c_20t_2c_20functor_2c_201_20_3e_190',['Return&lt; T, Functor, 1 &gt;',['../structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_011_01_4.html',1,'yaclib::detail']]],
+  ['return_3c_20t_2c_20functor_2c_202_20_3e_191',['Return&lt; T, Functor, 2 &gt;',['../structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_012_01_4.html',1,'yaclib::detail']]],
+  ['return_3c_20t_2c_20functor_2c_204_20_3e_192',['Return&lt; T, Functor, 4 &gt;',['../structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_014_01_4.html',1,'yaclib::detail']]],
+  ['return_3c_20t_2c_20functor_2c_208_20_3e_193',['Return&lt; T, Functor, 8 &gt;',['../structyaclib_1_1detail_1_1Return_3_01T_00_01Functor_00_018_01_4.html',1,'yaclib::detail']]],
+  ['run_194',['Run',['../namespaceyaclib.html#a5fbf001b64fb8536699a934ef2da6706',1,'yaclib']]],
+  ['run_2ehpp_195',['run.hpp',['../run_8hpp.html',1,'']]]
+];

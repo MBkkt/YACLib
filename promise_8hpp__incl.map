@@ -1,0 +1,33 @@
+<map id="include/yaclib/async/promise.hpp" name="include/yaclib/async/promise.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="411,5,549,47"/>
+<area shape="rect" id="node2" href="$result__core_8hpp.html" title=" " alt="" coords="379,348,507,389"/>
+<area shape="rect" id="node18" href="$type__traits_8hpp.html" title=" " alt="" coords="231,527,395,553"/>
+<area shape="rect" id="node23" href="$future_8hpp.html" title=" " alt="" coords="403,95,557,121"/>
+<area shape="rect" id="node24" href="$future__impl_8hpp.html" title=" " alt="" coords="531,169,659,211"/>
+<area shape="rect" id="node31" href="$promise__impl_8hpp.html" title=" " alt="" coords="683,169,811,211"/>
+<area shape="rect" id="node3" href="$base__core_8hpp.html" title=" " alt="" coords="592,437,720,479"/>
+<area shape="rect" id="node17" href="$result_8hpp.html" title=" " alt="" coords="108,445,244,471"/>
+<area shape="rect" id="node4" href="$executor_8hpp.html" title=" " alt="" coords="678,601,863,628"/>
+<area shape="rect" id="node5" href="$task_8hpp.html" title=" " alt="" coords="582,676,743,703"/>
+<area shape="rect" id="node9" title=" " alt="" coords="872,929,933,956"/>
+<area shape="rect" id="node10" href="$intrusive__ptr_8hpp.html" title=" " alt="" coords="563,840,693,881"/>
+<area shape="rect" id="node16" href="$inline_8hpp.html" title=" " alt="" coords="573,527,739,553"/>
+<area shape="rect" id="node6" href="$func_8hpp.html" title=" " alt="" coords="522,758,651,785"/>
+<area shape="rect" id="node15" href="$intrusive__node_8hpp.html" title=" " alt="" coords="675,751,805,792"/>
+<area shape="rect" id="node7" href="$counters_8hpp.html" title=" " alt="" coords="939,847,1093,874"/>
+<area shape="rect" id="node11" href="$ref_8hpp.html" title=" " alt="" coords="689,929,807,956"/>
+<area shape="rect" id="node13" title=" " alt="" coords="407,929,489,956"/>
+<area shape="rect" id="node14" title=" " alt="" coords="514,929,566,956"/>
+<area shape="rect" id="node8" title=" " alt="" coords="957,929,1075,956"/>
+<area shape="rect" id="node12" title=" " alt="" coords="591,929,665,956"/>
+<area shape="rect" id="node20" title=" " alt="" coords="67,601,144,628"/>
+<area shape="rect" id="node21" title=" " alt="" coords="23,527,121,553"/>
+<area shape="rect" id="node22" title=" " alt="" coords="145,527,207,553"/>
+<area shape="rect" id="node19" title=" " alt="" coords="366,601,431,628"/>
+<area shape="rect" id="node25" href="$wait_8hpp.html" title=" " alt="" coords="734,266,869,293"/>
+<area shape="rect" id="node30" href="$core_8hpp.html" title=" " alt="" coords="531,259,659,300"/>
+<area shape="rect" id="node26" href="$wait__impl_8hpp.html" title=" " alt="" coords="742,348,861,389"/>
+<area shape="rect" id="node27" href="$wait__core_8hpp.html" title=" " alt="" coords="939,437,1067,479"/>
+<area shape="rect" id="node28" title=" " alt="" coords="998,527,1125,553"/>
+<area shape="rect" id="node29" title=" " alt="" coords="917,527,974,553"/>
+</map>

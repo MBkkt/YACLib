@@ -1,0 +1,6 @@
+<map id="yaclib::ITask" name="yaclib::ITask">
+<area shape="rect" id="node1" title="Callable that can be executed in an IExecutor." alt="" coords="86,172,181,199"/>
+<area shape="rect" id="node2" href="$classyaclib_1_1util_1_1IFunc.html" title="Shared callable interface." alt="" coords="5,89,123,115"/>
+<area shape="rect" id="node3" href="$classyaclib_1_1util_1_1IRef.html" title="Reference counting interface." alt="" coords="10,5,118,32"/>
+<area shape="rect" id="node4" href="$classyaclib_1_1util_1_1detail_1_1Node.html" title="Intrusive node class." alt="" coords="147,81,261,123"/>
+</map>

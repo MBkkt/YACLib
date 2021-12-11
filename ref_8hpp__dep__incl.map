@@ -1,0 +1,43 @@
+<map id="include/yaclib/util/ref.hpp" name="include/yaclib/util/ref.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="820,5,941,47"/>
+<area shape="rect" id="node2" href="$wait__core_8hpp.html" title=" " alt="" coords="386,95,527,136"/>
+<area shape="rect" id="node22" href="$func_8hpp.html" title=" " alt="" coords="919,184,1040,225"/>
+<area shape="rect" id="node41" href="$intrusive__ptr_8hpp.html" title=" " alt="" coords="820,95,941,136"/>
+<area shape="rect" id="node3" href="$wait__group_8hpp.html" title=" " alt="" coords="223,184,351,225"/>
+<area shape="rect" id="node5" href="$wait__impl_8hpp.html" title=" " alt="" coords="327,631,467,672"/>
+<area shape="rect" id="node21" href="$wait__core_8cpp.html" title=" " alt="" coords="434,191,597,218"/>
+<area shape="rect" id="node4" href="$wait__group_8cpp.html" title=" " alt="" coords="200,281,359,307"/>
+<area shape="rect" id="node6" href="$wait_8hpp.html" title=" " alt="" coords="485,720,613,761"/>
+<area shape="rect" id="node18" href="$wait__for_8hpp.html" title=" " alt="" coords="181,720,309,761"/>
+<area shape="rect" id="node19" href="$wait__until_8hpp.html" title=" " alt="" coords="333,720,461,761"/>
+<area shape="rect" id="node20" href="$wait__impl_8cpp.html" title=" " alt="" coords="5,727,156,754"/>
+<area shape="rect" id="node7" href="$future__impl_8hpp.html" title=" " alt="" coords="687,809,837,851"/>
+<area shape="rect" id="node8" href="$future_8hpp.html" title=" " alt="" coords="805,899,943,940"/>
+<area shape="rect" id="node13" href="$promise_8hpp.html" title=" " alt="" coords="607,988,746,1029"/>
+<area shape="rect" id="node9" href="$when__any_8hpp.html" title=" " alt="" coords="757,1077,885,1119"/>
+<area shape="rect" id="node11" href="$when__all_8hpp.html" title=" " alt="" coords="965,1077,1093,1119"/>
+<area shape="rect" id="node15" href="$run_8hpp.html" title=" " alt="" coords="1066,988,1205,1029"/>
+<area shape="rect" id="node17" href="$future__impl_8cpp.html" title=" " alt="" coords="821,995,991,1022"/>
+<area shape="rect" id="node10" href="$when__any_8cpp.html" title=" " alt="" coords="1011,1167,1145,1208"/>
+<area shape="rect" id="node12" href="$when__all_8cpp.html" title=" " alt="" coords="1169,1167,1304,1208"/>
+<area shape="rect" id="node14" href="$promise__impl_8cpp.html" title=" " alt="" coords="549,1085,732,1111"/>
+<area shape="rect" id="node16" href="$simple_8cpp.html" title=" " alt="" coords="1223,1077,1357,1119"/>
+<area shape="rect" id="node23" href="$task_8hpp.html" title=" " alt="" coords="1089,273,1243,315"/>
+<area shape="rect" id="node24" href="$base__core_8hpp.html" title=" " alt="" coords="660,541,805,583"/>
+<area shape="rect" id="node29" href="$executor_8hpp.html" title=" " alt="" coords="1089,363,1243,404"/>
+<area shape="rect" id="node38" href="$thread__factory_8hpp.html" title=" " alt="" coords="1560,363,1713,404"/>
+<area shape="rect" id="node40" href="$intrusive__list_8cpp.html" title=" " alt="" coords="1845,452,1959,493"/>
+<area shape="rect" id="node25" href="$result__core_8hpp.html" title=" " alt="" coords="658,631,807,672"/>
+<area shape="rect" id="node28" href="$base__core_8cpp.html" title=" " alt="" coords="832,638,999,665"/>
+<area shape="rect" id="node26" href="$core_8hpp.html" title=" " alt="" coords="770,720,909,761"/>
+<area shape="rect" id="node27" href="$result__core_8cpp.html" title=" " alt="" coords="933,727,1103,754"/>
+<area shape="rect" id="node30" href="$inline_8hpp.html" title=" " alt="" coords="949,452,1103,493"/>
+<area shape="rect" id="node32" href="$serial_8hpp.html" title=" " alt="" coords="1280,452,1433,493"/>
+<area shape="rect" id="node34" href="$thread__pool_8hpp.html" title=" " alt="" coords="1509,452,1663,493"/>
+<area shape="rect" id="node35" href="$src_2executor_2thread__pool_8cpp.html" title=" " alt="" coords="1503,541,1637,583"/>
+<area shape="rect" id="node37" href="$src_2executor_2serial_8cpp.html" title=" " alt="" coords="773,459,925,486"/>
+<area shape="rect" id="node31" href="$inline_8cpp.html" title=" " alt="" coords="951,549,1101,575"/>
+<area shape="rect" id="node33" href="$test_2example_2executor_2serial_8cpp.html" title=" " alt="" coords="1330,541,1479,583"/>
+<area shape="rect" id="node36" href="$test_2example_2executor_2thread__pool_8cpp.html" title=" " alt="" coords="1711,541,1861,583"/>
+<area shape="rect" id="node39" href="$thread__factory_8cpp.html" title=" " alt="" coords="1687,452,1821,493"/>
+</map>

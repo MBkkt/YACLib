@@ -1,0 +1,13 @@
+<map id="include/yaclib/async/detail/promise_impl.hpp" name="include/yaclib/async/detail/promise_impl.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="298,5,461,47"/>
+<area shape="rect" id="node2" href="$future_8hpp.html" title=" " alt="" coords="257,95,395,136"/>
+<area shape="rect" id="node7" href="$promise_8hpp.html" title=" " alt="" coords="363,184,502,225"/>
+<area shape="rect" id="node3" href="$when__any_8hpp.html" title=" " alt="" coords="9,273,137,315"/>
+<area shape="rect" id="node5" href="$when__all_8hpp.html" title=" " alt="" coords="325,273,453,315"/>
+<area shape="rect" id="node9" href="$run_8hpp.html" title=" " alt="" coords="162,273,301,315"/>
+<area shape="rect" id="node11" href="$future__impl_8cpp.html" title=" " alt="" coords="67,191,238,218"/>
+<area shape="rect" id="node4" href="$when__any_8cpp.html" title=" " alt="" coords="5,363,140,404"/>
+<area shape="rect" id="node6" href="$when__all_8cpp.html" title=" " alt="" coords="323,363,457,404"/>
+<area shape="rect" id="node8" href="$promise__impl_8cpp.html" title=" " alt="" coords="477,281,660,307"/>
+<area shape="rect" id="node10" href="$simple_8cpp.html" title=" " alt="" coords="164,363,299,404"/>
+</map>
